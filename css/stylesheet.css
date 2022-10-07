@@ -1,3 +1,7 @@
-body{background-color: aliceblue;}
+body{background-color: whitesmoke;}
 h1{color: brown;}
 p{color: rgb(0, 0, 0);}
+body{background-color: aliceblue;}
+.navigation{background-color: beige;
+    text-align: center;
+}
